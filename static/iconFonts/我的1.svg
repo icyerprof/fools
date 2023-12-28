@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26"
+	viewBox="0 0 26 26">
+	<defs>
+		<style>
+			.a {
+				fill: none;
+			}
+
+			.b {
+				fill: #b3b3b3;
+				opacity: 0;
+			}
+
+			.c {
+				clip-path: url(#a);
+			}
+
+			.d {
+				fill: #ffffff;
+			}
+		</style>
+		<clipPath id="a">
+			<rect class="a" width="21.157" height="24" transform="translate(0)" />
+		</clipPath>
+	</defs>
+	<g transform="translate(-309 -729)">
+		<rect class="b" width="26" height="26" transform="translate(309 729)" />
+		<g transform="translate(-345.163 730)">
+			<g class="c" transform="translate(656.585)">
+				<path class="d"
+					d="M675.134,8.136a7.981,7.981,0,1,0-15.961,0,7.736,7.736,0,0,0,4.079,6.917,10.729,10.729,0,0,0-6.65,7.981.9.9,0,0,0,.709,1.064h.177a.863.863,0,0,0,.887-.709,9.005,9.005,0,0,1,8.69-7.271h.177a7.929,7.929,0,0,0,7.892-7.981m-14.188,0a6.207,6.207,0,0,1,12.414,0,6.266,6.266,0,0,1-6.119,6.207h-.266a6.19,6.19,0,0,1-6.03-6.207m12.06,8.069a.9.9,0,0,0-.975,1.507,9.036,9.036,0,0,1,3.9,5.675.863.863,0,0,0,.887.709H677a.92.92,0,0,0,.709-1.064,10.772,10.772,0,0,0-4.7-6.828"
+					transform="translate(-656.585 -0.13)" />
+			</g>
+		</g>
+	</g>
+</svg>
